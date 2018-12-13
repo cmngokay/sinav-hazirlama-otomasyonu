@@ -1,0 +1,1 @@
+# sinav-hazirlama-otomasyonu
